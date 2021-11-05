@@ -1,0 +1,5 @@
+git -init
+git status 
+git add <filename>
+git commit -m "commet "      -m znamena chcem rovno pridat komentar 
+git log - vidis zmeny v projekte 
